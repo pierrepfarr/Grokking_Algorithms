@@ -1,3 +1,4 @@
+import pytest
 from binary_serach import binary_search
 
 
